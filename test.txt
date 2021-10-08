@@ -1,4 +1,7 @@
 welcome to world
+<<<<<<< HEAD
+my name is elnaz arab
+=======
 
 <<<<<<< HEAD
 
