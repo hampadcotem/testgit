@@ -1,2 +1,7 @@
 welcome to world
+<<<<<<< HEAD
 my name is elnaz arab
+=======
+
+samadi
+>>>>>>> 98466546e4b08b72a811fa75021d2129a02d9181
