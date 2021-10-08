@@ -1,4 +1,8 @@
 welcome to world
 
+<<<<<<< HEAD
 
 rahim ghasemi
+=======
+samadi
+>>>>>>> 98466546e4b08b72a811fa75021d2129a02d9181
